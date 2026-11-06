@@ -1,4 +1,7 @@
+
+---
 title: Home
+---
 
 # Lab 10 GitHub Basics
 
